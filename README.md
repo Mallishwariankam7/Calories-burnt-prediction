@@ -1,1 +1,4 @@
-# Calories-burnt-prediction
+Calorie burn prediction is a useful tool for tracking energy expenditure, which can help in weight management, fitness training, and overall health monitoring.
+The process involves estimating how many calories a person burns during a specific activity or over a period of time, based on various factors such as:
+Personal attributes: age, gender, height, weight.
+This project falls within the domain of Regression Machine Learning Problem. The primary objective is to develop a predictive model for calorie burnt prediction. By analyzing a combination of input features such as physical activity type, duration, intensity, and individual characteristics like age, weight, and gender, the goal is to create a model that accurately estimates the number of calories burnt during a specific activity. This predictive model can empower individuals, fitness enthusiasts, and healthcare professionals with valuable insights to optimize their calorie management and physical activity planning.
